@@ -131,19 +131,14 @@ class _MyAppState extends State<MyApp> {
                       color: Colors.black
                   ),),
                   SizedBox(height: 5),
-                  Text('I have been locked up in my house to perfect the style of Wudan.  ',style: TextStyle(
+                  Text("Who's gonna carry the boats and the log's?  ",style: TextStyle(
                       fontSize:9,
                       fontWeight: FontWeight.normal,
                       color: Colors.black
                   ),),
 
-
-
                 ],
               ),
-
-
-
 
             ],
           ),
